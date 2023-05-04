@@ -1,0 +1,206 @@
+.pantalla{
+    width: 42.8rem;
+    height: 92.6rem;
+    background-color: whitesmoke;
+    margin: auto;
+}
+.menu{
+    float: left;
+    width: 3.7rem;
+    height: 3.3rem;
+    margin-left: 4.2rem;
+    margin-top: 3.1rem;
+}
+.menu img{
+    width: 3.7rem;
+    height: 3.3rem;
+    cursor: pointer;
+}
+.titulo{
+    float: left;
+    width: 25rem;
+    height: 5.2rem;
+    position: absolute;
+    margin-left: 11.7rem;
+    margin-top: 3.8rem;
+    text-align: start;
+    
+}
+.titulo h1{ 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.2rem;
+    line-height: 2.7rem;
+}
+.inicio{
+    position: absolute;
+    margin-top: 13.6rem;
+    width: 43.6rem;
+    height: 34.3rem;
+}
+.indiaGrande{
+    position: absolute;
+    width: 18.1rem;
+    height: 30.1rem;
+    background-image: url(../img/IndiaGrande.png);
+    background-size:cover;
+    border-radius: 17px;
+    margin-left: 2.4rem;
+}
+.paisaje1 div{
+    float: left;
+    width: 16.2rem;
+    height: 2.6rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 17px;
+    margin-top: 24.4rem;
+    margin-left: 1rem;
+color: #FFFFFF;
+}
+.paisaje1 div h2{
+    font-size: 1.3rem;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    line-height: 17px;
+    margin-top: 0.5rem;
+}
+.china{
+    position: absolute;
+    width: 18.1rem;
+    height: 30.1rem;
+    border-radius: 17px;
+    background-image: url(../img/China.png);
+    background-size: cover;
+    margin-left: 22.3rem;
+}
+.china div{
+    float: left;
+    width: 16.2rem;
+    height: 2.6rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 17px;
+    margin-top: 24.4rem;
+    margin-left: 1rem;
+color: #FFFFFF;
+}
+.china div h2{
+    font-size: 1.3rem;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    line-height: 17px;
+    margin-top: 0.5rem;
+}
+.medio{
+    position: absolute;
+    margin-top: 45.5rem;
+    width: 43.6rem;
+    height: 34.3rem;
+}
+.chinaMedio{
+    position: absolute;
+    background-image: url(../img/IndiaGrande.png);
+    background-position:left;
+    width: 18.1rem;
+    height: 13.5rem;
+    margin-left: 2.4rem;
+    border-radius: 17px;
+}
+.chinaMedio div{
+    float: left;
+    margin-top: 7.8rem;
+    width: 16.2rem;
+    height: 2.6rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 17px;
+    margin-left: 1rem;
+color: #FFFFFF;
+}
+.chinaMedio div h2{
+    font-size: 1.3rem;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    line-height: 17px;
+    margin-top: 0.5rem;
+}
+.indiaMedio{
+    position: absolute;
+    background-image: url(../img/IndiaGrande.png);
+    background-position:left;
+    width: 18.1rem;
+    height: 14.4rem;
+    margin-left: 2.4rem;
+    border-radius: 17px;
+    margin-top: 15.6rem;
+}
+.indiaMedio div{
+    float: left;
+    margin-top: 7.8rem;
+    width: 16.2rem;
+    height: 2.6rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 17px;
+    margin-left: 1rem;
+color: #FFFFFF;
+}
+.indiaMedio div h2{
+    font-size: 1.3rem;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    line-height: 17px;
+    margin-top: 0.5rem;
+}
+.abajo{
+    position: absolute;
+    background-image: url(../img/China.png);
+    background-size: cover;
+    width: 18.1rem;
+    height: 30.1rem;
+    border-radius: 17px;
+    margin-left: 22.3rem;
+}
+.abajo div{
+    float: left;
+    width: 16.2rem;
+    height: 2.6rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 17px;
+    margin-top: 24.4rem;
+    margin-left: 1rem;
+color: #FFFFFF;
+}
+.abajo div h2{
+    font-size: 1.3rem;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    line-height: 17px;
+    margin-top: 0.5rem;
+}
+.mas{
+    width: 5rem;
+    height: 5rem;
+    float: right;
+    margin-right: 2.9rem;
+    margin-top: 83.4rem;
+    cursor: pointer;
+}
